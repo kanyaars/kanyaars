@@ -63,6 +63,5 @@ Design:           Figma | Canva (sometimes)
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanyaars&show_icons=true&theme=blood" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanyaars&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" />
 </p>
-```
