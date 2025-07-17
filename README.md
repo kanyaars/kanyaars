@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kanyaars</h1>
-<p align="center"><i>Not your type girls sorry~</i></p>
+<p align="center"><i>Not your type, girls — sorry not sorry ~</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CTF%20Lover-%23FF69B4?style=for-the-badge&logo=HackTheBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Made%20with-VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-4EAA25?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fighting%20Bugs%20Everyday-%23F7768E?style=for-the-badge&logo=bugatti&logoColor=white" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o6ZsYm5YuCjLd1Kuk/giphy.gif" width="200" />
@@ -8,8 +15,8 @@
 ---
 
 ### 🧩 About Me
-- 🧠 I break things for fun (CTF lover)
-- 🎨 I make the web prettier (CSS enjoyer)
+- 🧠 I break things (legally) — CTF is my playground
+- 🎨 Turning ugly websites into ✨ magic ✨ since... forever
 - 👻 Still hiding behind the screen (and loving it)
 - 🤖 Probably automating something useless right now
 
@@ -48,3 +55,13 @@ Design:           Figma | Canva (sometimes)
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7768E&center=true&width=500&lines=404+Sleep+Not+Found.;God+Bless+Cute+Girl+Like+Me....;Hacking+the+Matrix.....;Welcome+to+the+Jungleee+Homiessss" alt="Typing SVG" />
 </div>
+
+---
+
+<p align="center"> <i>Built with caffeine, chaos, and just a little CSS 💅</i> </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanyaars&show_icons=true&theme=radical" />
+</p>
