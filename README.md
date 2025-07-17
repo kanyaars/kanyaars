@@ -63,9 +63,6 @@ Design:           Figma | Canva (sometimes)
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanyaars&show_icons=true&bg_color=000000&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=8B0000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanyaars&layout=compact&bg_color=000000&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=8B0000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanyaars&show_icons=true&bg_color=000000&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=8B0000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanyaars&layout=compact&bg_color=000000&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=8B0000" />
 </p>
