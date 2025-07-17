@@ -2,10 +2,10 @@
 <p align="center"><i>Not your type, girls — sorry not sorry ~</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CTF%20Lover-%238B0000?style=for-the-badge&logo=HackTheBox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Made%20with-VSCode-%238B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%238B0000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fighting%20Bugs%20Everyday-%238B0000?style=for-the-badge&logo=bugatti&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF%20Lover-8B0000?style=for-the-badge&logo=HackTheBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Made%20with-VSCode-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fighting%20Bugs%20Everyday-8B0000?style=for-the-badge&logo=bugatti&logoColor=white" />
 </p>
 
 <div align="center">
