@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYm5YuCjLd1Kuk/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/yoJC2Olx0ekMy2nX7W/giphy.gif" width="200" />
 </div>
 
 ---
