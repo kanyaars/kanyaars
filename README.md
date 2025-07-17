@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanyaars</h1>
+<h1 align="center">Hi, I'm Kanyaars</h1>
 <p align="center"><i>Not your type, girls — sorry not sorry ~</i></p>
 
 <p align="center">
